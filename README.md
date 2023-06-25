@@ -4,7 +4,10 @@
 
 **The "Elliot Script" is a Python script designed to assist in wordlist generation based on personal information extracted through social engineering and OSINT (Open Source Intelligence). It is inspired by a tool the character Elliot Alderson uses in the television series "Mr. Robot" and allows users to create customized wordlists for brute force attacks.**
 # 🎥 Elliot's Way !
-https://github.com/B4PHOM3T/Elliot-Script/assets/89618500/a929a367-16dd-4b43-ba85-801ceb677779
+
+
+https://github.com/B4PHOM3T/Elliot-Script/assets/89618500/4fa0b337-64ca-4361-b56c-216f40ce9091
+
 
 # ⚙️ Installation
 **Download the latest revision**
