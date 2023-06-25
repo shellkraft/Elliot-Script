@@ -1,5 +1,5 @@
 def generate_passwords(words1, numbers2, qty3):
-    passwords1 = set()  # Use a set to store unique passwords1
+    passwords1 = set() 
     for word in words1:
         for number in numbers2:
             passwords1.add(word + number)
@@ -25,7 +25,6 @@ def generate_passwords(words1, numbers2, qty3):
     return list(passwords1)[:qty3]
 
 
-# Get the file path from the user
 file_path = input("[*] Enter the file path: ").strip('"')
 
 try:
@@ -39,7 +38,6 @@ try:
 
         passwords = generate_passwords(words, numbers, qty)
 
-        # Save passwords to a text file
         output_file = 'passwords.txt'
         with open(output_file, 'w') as output:
             for password in passwords:
