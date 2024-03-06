@@ -12,7 +12,7 @@ https://github.com/B4PHOM3T/Elliot-Script/assets/89618500/4fa0b337-64ca-4361-b56
 # ⚙️ Installation
 **Download the latest revision**
 ```
-git clone https://github.com/B4PHOM3T/Elliot-Script.git
+git clone https://github.com/shellkraft/Elliot-Script.git
 ```
 **Switch to tool's directory**
 ```
