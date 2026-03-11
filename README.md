@@ -29,11 +29,6 @@ python3 elliotscript.py
 - The passwords are saved to a text file named `passwords.txt`.
 - Finally, a success message is displayed, indicating the number of passwords generated and the file where they are saved.
   
-# ⚠️ Disclaimer
-*This script is intended for educational and personal use only. The generated passwords should not be used for unauthorized access, or any other illegal purposes. I won't be liable for any damages, losses, or legal implications arising from the misuse of this script.*
-
-# 🫂 Join my Discord
-<a href="https://disboard.org/server/join/1025011157586673797" target="blank"><img align="center" img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord Badge" /></a>
 
 
 
